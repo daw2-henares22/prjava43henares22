@@ -25,7 +25,7 @@ btnCount.addActionListener(this);
 addWindowListener(this);
 // "this" Frame fires WindowEvent its registered WindowEvent listener
 // "this" Frame adds "this" object as a WindowEvent listener
-setTitle("nova finestra prjava43henares22"); // "this" Frame sets title
+setTitle("nova finestra prjava43henares22"); // "this" Frame sets titlez
 setSize(450, 100); // "this" Frame sets initial size
 setVisible(true); // "this" Frame shows
 }
